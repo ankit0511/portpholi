@@ -1,6 +1,6 @@
-# Portfolio of Soumyajit Basak
+# Portfolio of Ankit Patle
 
-<img src ="https://github.com/soumyajiitt/Portfolio/blob/master/src/assets/Work4.png" />
+
 
 This project was created with Vite ( React + JavaScript )
 
