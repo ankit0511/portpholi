@@ -22,7 +22,7 @@ const New = () => {
 
                     <div>
                         <h3 className="skills__name">Kafka</h3>
-                        <span className="skills__level">Advanced</span>
+                        <span className="skills__level">Learning</span>
                     </div>
                 </div>
 
