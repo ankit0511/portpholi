@@ -79,7 +79,7 @@ data exchange between industrial systems.</p>
                     <div className="exp__modal-content">
                         <i onClick={() => toggleTab(0)} className="uil uil-times exp__modal-close"></i>
 
-                        <h3 className="exp__modal-title">Software Developer Intern <br /> Feb'24 - May'24</h3>
+                        <h3 className="exp__modal-title">Software Developer Intern <br /> November'24 - January'24</h3>
                         <p className="exp__modal-description">Worked as Intern for 3 months.
                             Providing quality work to clients and company.
                         </p>

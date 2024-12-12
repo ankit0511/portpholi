@@ -19,7 +19,7 @@ export const Data = [
       total : "100+",
       score: "330+",
       rank : " Top 80%",
-      link: "https://leetcode.com/u/ankit__0511/"
+      link: "https://www.geeksforgeeks.org/user/ankitpatle000000/"
     },
     
   ];
