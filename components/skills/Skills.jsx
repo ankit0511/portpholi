@@ -3,7 +3,7 @@ import React from 'react';
 import Frontend from './Frontend';
 import Coursework from './Coursework';
 import './skills.css'
-import NewLearning from './Newlearning';
+import NewLearning from './NewLearning.jsx';
 
 
 const Skills = () => {
