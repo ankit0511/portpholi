@@ -3,7 +3,7 @@ import React from 'react';
 import Frontend from './Frontend';
 import Coursework from './Coursework';
 import './skills.css'
-import NewLearning from './NewLearning.jsx';
+import New from './New.jsx';
 
 
 const Skills = () => {
@@ -15,7 +15,7 @@ const Skills = () => {
       <div className="skills__container container grid">
         <Frontend />
         <Coursework />
-        <NewLearning/>
+        <New/>
       </div>
     </section>
   )

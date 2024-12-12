@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 
-const NewLearning = () => {
+const New = () => {
   return (
     <div className="skills__content">
         <h3 className="skills__title">What New I Am Learning</h3>
@@ -53,4 +53,4 @@ const NewLearning = () => {
   )
 }
 
-export default NewLearning
+export default New
