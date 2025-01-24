@@ -18,7 +18,7 @@ const About = () => {
 
             <p className="about__description">Full Stack Developer with expertise in creating dynamic and responsive web applications. Proficient in both frontend and backend technologies, including HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. With a strong focus on UI/UX design and robust backend logic, I have the skills and tools to bring complex web solutions to life, ensuring seamless functionality and a user-friendly experience.</p>
 
-            <a href="https://drive.google.com/file/d/1dIw2nFtsvX6n8hgDNFeXpC1e2XC3yq30/view" target='_blank' className="button button--flex"> View Resume
+            <a href="https://drive.google.com/file/d/1Huvd81Dgy4HLPT0vIOOlLzisWpQCSLHo/view?usp=sharing" target='_blank' className="button button--flex"> View Resume
               <svg
                 className="button__icon"
                 xmlns="http://www.w3.org/2000/svg"

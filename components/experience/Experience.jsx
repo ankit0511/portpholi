@@ -31,7 +31,7 @@ const Experience = () => {
                     <div className="exp__modal-content">
                         <i onClick={() => toggleTab(0)} className="uil uil-times exp__modal-close"></i>
 
-                        <h3 className="exp__modal-title">Full Stack Developer Intern <br /> March'24 - September'24🧑🏻‍💻</h3>
+                        <h3 className="exp__modal-title">Full Stack Developer Intern <br /> July'24 - October'24🧑🏻‍💻</h3>
                         <p className="exp__modal-description">Worked at Dream Dev Infoteach as Intern for 5 months.
                             Providing quality work to clients and company.
                         </p>
@@ -79,7 +79,7 @@ data exchange between industrial systems.</p>
                     <div className="exp__modal-content">
                         <i onClick={() => toggleTab(0)} className="uil uil-times exp__modal-close"></i>
 
-                        <h3 className="exp__modal-title">Software Developer Intern <br /> November'24 - January'24</h3>
+                        <h3 className="exp__modal-title">Software Developer Intern <br /> October'24 - January'24</h3>
                         <p className="exp__modal-description">Worked as Intern for 3 months.
                             Providing quality work to clients and company.
                         </p>
